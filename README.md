@@ -1,0 +1,2 @@
+# SoccerTrackingAPP
+Python, Flask, Yolo
